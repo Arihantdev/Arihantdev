@@ -52,9 +52,9 @@ I'm a Computer Science student specializing in Data Science, passionate about bu
 ## ⭐ Featured Projects
 
 ### 🚆 TramenAI
-AI-powered train traffic control and scheduling system designed to optimize railway operations.
+AI-powered railway traffic control and scheduling system designed to optimize train operations, detect conflicts, and improve network efficiency.
 
-[GitHub](https://github.com/Arihantdev/TramenAI) • [Live Demo](https://tramenai.netlify.app/)
+[GitHub](https://github.com/Arihantdev/TramenAI) • [Live Demo](https://tramenai.netlify.app/) • [Release v1.0.0](https://github.com/Arihantdev/TramenAI/releases/tag/v1.0.0)
 
 ### 🧠 Second Mind
 AI-powered personal knowledge management system designed to organize, connect, and interact with information intelligently.
