@@ -1,5 +1,7 @@
 # Hi, I'm Arihant Singh 👋
 
+![Arihant Singh Banner](./Banner.png)
+
 ### CSE-DS Student | AI/ML & Full-Stack Developer
 
 I'm a Computer Science student specializing in Data Science, passionate about building practical software, AI-powered applications, and intelligent systems that solve real-world problems.
