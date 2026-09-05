@@ -29,6 +29,12 @@ I'm a Computer Science student specializing in Data Science, passionate about bu
 - Git & GitHub
 - AI/ML
 
+## 📊 GitHub Stats
+
+![Arihant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihantdev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arihantdev&layout=compact&theme=tokyonight&hide_border=true)
+
 ## ⭐ Featured Projects
 
 ### 🚆 TramenAI
